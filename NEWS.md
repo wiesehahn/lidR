@@ -130,7 +130,7 @@ New functions are mostly convenient features that simplify some workflow aspects
 
 ### Enhancement
 
-1. The bounding box of the CHM computed with `rastertize_canopy()` or `grid_canopy()` is no longer affected by the `subcircle` tweak. See [#518](https://github.com/r-lidar/lidR/issues/518).
+1. The bounding box of the CHM computed with `rasterize_canopy()` or `grid_canopy()` is no longer affected by the `subcircle` tweak. See [#518](https://github.com/r-lidar/lidR/issues/518).
 
 2. `readLAS()` can now read two or more files that do not have the same point format (see [#508](https://github.com/r-lidar/lidR/discussions/508))
 
